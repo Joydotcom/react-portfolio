@@ -8,16 +8,21 @@ import "./App.css";
 
 function App() {
   return (
+    <div className="App" style={{ 
+      backgroundImage: `url("../public/images/bluebrickback.JPEG")` 
+    }}>
+      Hello World
     <Router basename={process.env.PUBLIC_URL}>
-      <div className="App">
+      
         <Header />
         <Switch>
           <Route exact path="/" component={Project} />
           <Route exact path="/" component={Home} />
         </Switch>
         <Footer />
-      </div>
-    </Router>
+      
+    </Router >
+    </div>
   );
 }
 

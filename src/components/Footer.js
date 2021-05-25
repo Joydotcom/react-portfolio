@@ -1,6 +1,9 @@
 import React from "react";
-import { faInbox, faMobile, faLinkedin  } from "@fortawesome/free-solid-svg-icons";
+// import { library } from '@fortawesome/fontawesome-svg-core';
+import { faInbox, faMobile,   } from "@fortawesome/free-solid-svg-icons";
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 
 function Footer() {
   return (

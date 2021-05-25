@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "resume";
+// import Resume from "resume";
 
 function Resume() {
   return (
@@ -22,4 +22,4 @@ function Resume() {
   );
 }
 
-export default Resume;
+export default Resume; 
