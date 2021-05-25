@@ -12,6 +12,9 @@ header {
   justify-content: space-between;
 }
 
+.App {
+  background-image: "bluebrickback.JPEG";
+}
 h1 {
   color: #5398c5;
 }
