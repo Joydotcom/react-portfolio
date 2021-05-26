@@ -1,10 +1,13 @@
 import React from "react";
+import { Document, Page } from 'react-pdf';
+import pdf from '../../../img/resume21.pdf';
 
-// import Resume from "resume";
 
 function Resume() {
   return (
-  <h1>hello world</h1>
+    <Document file={pdf}>
+    <Page pageNumber={1} />
+  </Document>
   );
 }
 

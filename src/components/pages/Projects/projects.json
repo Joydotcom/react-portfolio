@@ -4,41 +4,15 @@
       "description": "Here, you'll find a fully functioning scheduler, utilizing local storage.",
       "repo": "https://github.com/Joydotcom/workday-scheduler",
       "deployed": "https://joydotcom.github.io/workday-scheduler/",
-      "image": "/images/shceduleimage.jpg"
+      "image": "/images/scheduleimage.jpg"
     },
     {
-      "title": "Weather Dashboard",
-      "description": "This application utilizes the OpenWeatherMap API and multiple endpoints to provide the current conditions (including the UV index), a five-day forecast, and icons indicating the type of weather for city based on a text string. Previously searched cities are saved in local storage and can be recalled when clicking a button.",
-      "repo": "https://github.com/matthale11/weather-dashboard",
-      "deployed": "https://matthale11.github.io/weather-dashboard/",
-      "image": "/images/weather-dash.png"
-    },
-    {
-      "title": "Employee Tracker",
-      "description": "The Employee Tracker is a command line-based content management system (CMS) for managing a company's employee information using Node.js, the Inquirer NPM package, the mysql NPM package, the console.table NPM package, and a MySQL database. Users are able to add employees and identify the manager and department for an employee.",
-      "repo": "https://github.com/matthale11/employee-tracker",
-      "deployed": "https://drive.google.com/file/d/1JhEfKSdZ4v6uSr7gzOPkceduCAI_mb_K/view?usp=sharing",
-      "image": "/images/employee-tracker.png"
-    },
-    {
-      "title": "Workout Tracker",
-      "description": "This application utilizes two third-party APIs, allowing a user to see upcoming holidays (from Calendarific API), select a holiday, see recipes for that holiday (from Edamam API), and save recipes to a list (local storage).",
-      "repo": "https://github.com/matthale11/workout-tracker",
-      "deployed": "https://stormy-brook-70744.herokuapp.com/",
-      "image": "/images/workout-tracker.png"
-    },
-    {
-      "title": "Employee Directory",
-      "description": "This application allows company managers to view employee information including first and last names, their location country, username, and email address. Employees are displayed in a table which can be sorted by first name, last name, or country and filtered by first name.",
-      "repo": "https://github.com/matthale11/employee-directory",
-      "deployed": "https://matthale11.github.io/employee-directory/",
-      "image": "/images/employee-directory.png"
-    },
-    {
-      "title": "Budget Tracker",
-      "description": "This simple budget tracker application allows as user to add and subtract funds from their account as well as charting this activity over time. When offline, transactions are saved to IndexedDB and then retrieved and updated in the database when the page is connected to the internet and reloaded. The chart updates both when online and offline.",
-      "repo": "https://github.com/matthale11/budget-tracker",
-      "deployed": "https://hidden-tor-54370.herokuapp.com/",
-      "image": "/images/budget-tracker.png"
+      "title": "Refactor Code",
+      "description": "Here, you'll find a fully functioning scheduler, utilizing local storage.",
+      "repo": "https://github.com/Joydotcom/horiseon-code-refactor",
+      "deployed": "https://joydotcom.github.io/horiseon-code-refactor/",
+      "image": "/images/refactorimage.jpeg"
     }
+ 
+
   ]

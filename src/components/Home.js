@@ -1,8 +1,11 @@
 import React from "react";
+import joy from '../img/joygraybackground.jpg';
+
 
 function Home() {
     return (
       <div>
+        <img src={joy} alt="headshot" /> 
         <h1>About Page</h1>
         <p>
           As a 2008 graduate of Montclair State University with a Bachelors of
