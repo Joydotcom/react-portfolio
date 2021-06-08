@@ -1,6 +1,23 @@
-.navbar {
-  font-size: 50px;
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.bar {
+  padding-top: 60px;
 }
+
+.navbar {
+  font-size: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 60px;
+  font-family: 'Josefin Sans', cursive;
+}
+
+.navbar-brand {
+  padding-left: 10px;
+}
+
+
+
 
 
 

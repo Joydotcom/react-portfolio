@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+
+h1 {
+  
+    font-family: 'Josefin Sans', cursive;
+    color: gray;
+    padding-top: 40px;
+
+    
+}
+
+.name {
+    font-size: 120px;
+}

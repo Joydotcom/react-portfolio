@@ -1,14 +1,26 @@
+
+
+
 import React from "react";
 import { Document, Page } from 'react-pdf';
-import pdf from '../../../img/resume21.pdf';
+
+import pdf from "./img/Resume21.pdf";
 
 
-function Resume() {
+// function Resume() {
+//   return (
+//     <Document file={pdf}>
+//     <Page pageNumber={1} />
+//   </Document>
+//   );
+// }
+
+// export default Resume; 
+
+export default function Resume() {
   return (
     <Document file={pdf}>
-    <Page pageNumber={1} />
-  </Document>
+      
+    </Document>
   );
 }
-
-export default Resume; 
