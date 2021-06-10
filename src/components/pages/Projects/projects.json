@@ -1,18 +1,9 @@
 [
     {
-      "title": "Work Day Scheduler",
-      "description": "Here, you'll find a fully functioning scheduler, utilizing local storage.",
-      "repo": "https://github.com/Joydotcom/workday-scheduler",
-      "deployed": "https://joydotcom.github.io/workday-scheduler/",
-      "image": "/images/scheduleimage.jpg"
-    },
-    {
-      "title": "Refactor Code",
-      "description": "Here, you'll find a fully functioning scheduler, utilizing local storage.",
-      "repo": "https://github.com/Joydotcom/horiseon-code-refactor",
-      "deployed": "https://joydotcom.github.io/horiseon-code-refactor/",
-      "image": "/images/refactorimage.jpeg"
+    
+      "react": "https://joydotcom.github.io/horiseon-code-refactor/"
+    
     }
- 
+    
 
   ]

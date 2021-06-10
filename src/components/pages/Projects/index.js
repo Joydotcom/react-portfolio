@@ -1,10 +1,11 @@
 
 import React, { Component } from "react";
-import { CardDeck, Button, Container, Card } from "react-bootstrap";
+import { Container, Card } from "react-bootstrap";
 import Carousel from "react-bootstrap/Carousel";
 import schedule from "./img/schedule2.jpg";
 import joylogo from "./img/joylogo2.PNG";
 import localroots from "./img/localroots2.JPEG";
+import Projects from "../Projects/projects.json";
 
 import refactor from "./img/refactor2.JPG";
 import "./style.css";
@@ -31,8 +32,8 @@ export class BootstrapCarousel extends Component {
                     from scratch. Feel free to browse my GitHub repo!
                   </Card.Text>
                   </div>
-                  <Card.Link href="#">Card Link</Card.Link>
-                  <Card.Link href="#">Another Link</Card.Link>
+                  <a className="link" href="https://github.com/Joydotcom/horiseon-code-refactor"> GitHub Link  </a>
+                  <a className="link" href="https://joydotcom.github.io/horiseon-code-refactor/">    Deployed Link</a>
                 </Card.Body>
               </Card>
             </Carousel.Item>
@@ -51,8 +52,8 @@ export class BootstrapCarousel extends Component {
                     this app is to provide a marketplace for plant lovers.
                   </Card.Text>
                   </div>
-                  <Card.Link href="#">Card Link</Card.Link>
-                  <Card.Link href="#">Another Link</Card.Link>
+                  <a className="link" href="https://github.com/julesscheil/Local-Roots"> GitHub Link  </a>
+                  <a className="link" href="https://damp-reef-27856.herokuapp.com/">    Deployed Link</a>
                 </Card.Body>
               </Card>
             </Carousel.Item>
@@ -71,8 +72,8 @@ export class BootstrapCarousel extends Component {
                     use of local storage!
                   </Card.Text>
                   </div>
-                  <Card.Link href="#">Card Link</Card.Link>
-                  <Card.Link href="#">Another Link</Card.Link>
+                  <a className="link" href="https://joydotcom.github.io/workday-scheduler/"> GitHub Link  </a>
+                  <a className="link" href="https://github.com/Joydotcom/workday-scheduler">    Deployed Link</a>
                 </Card.Body>
               </Card>
             </Carousel.Item>
@@ -91,8 +92,9 @@ export class BootstrapCarousel extends Component {
                     the code for this site.
                   </Card.Text>
                   </div>
-                  <Card.Link href="#">Card Link</Card.Link>
-                  <Card.Link href="#">Another Link</Card.Link>
+                  <a className="link" href="https://github.com/Joydotcom/horiseon-code-refactor"> GitHub Link  </a>
+                  <a className="link" href="https://joydotcom.github.io/horiseon-code-refactor/">    Deployed Link</a>
+                
                 </Card.Body>
               </Card>
             </Carousel.Item>
