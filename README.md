@@ -1,12 +1,14 @@
 # Portfolio : Joy Jackson
 
-This is my portfolio that includes my project, github link, contact info, and resume!
+Welcome to my portfolio, developed and designed by myself, from scratch!
+ 
+Here, you'll find my bio, most recent projects, resume, contact info, and github link!
 
 ## Deployed Site
 
-Click [Deployed Site](https://github.com/gitname/react-portfolio.git).
+Click Here! [Deployed Site](https:www.msjoyjackson.com).
 
 ## Screenshot
 
-! [Screenshot of Portfolio Homepage] ().
+![Directory Screenshot](./src/img/websiteshot.png).
 
