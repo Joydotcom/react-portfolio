@@ -1,13 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swa');
 
 .bio {
+    text-align: center;
     padding-top: 80px;
-    padding-left: 130px;
-    padding-right: 130px;
+    padding-left: 200px;
+    padding-right: 200px;
     padding-bottom: 300px;
     font-size: 20px;
     font-family: 'Josefin Sans', cursive;
    
+}
+
+.joy {
+    font-family:'Bad Script';
+    font-size: xx-large;
+    
 }
 
 

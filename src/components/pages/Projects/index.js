@@ -5,6 +5,7 @@ import Carousel from "react-bootstrap/Carousel";
 import schedule from "./img/schedule2.jpg";
 import joylogo from "./img/joylogo2.PNG";
 import localroots from "./img/localroots2.JPEG";
+import Header from "../../header/Header";
 import Projects from "../Projects/projects.json";
 
 import refactor from "./img/refactor2.JPG";
@@ -15,7 +16,18 @@ export class BootstrapCarousel extends Component {
   render() {
     return (
       <div className="allproject">
-        <Container >
+        <div style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}>
+        <h1 className="name">Projects</h1>
+        </div>
+        <Container style={{
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+    }}>
           <Carousel fade>
             <Carousel.Item interval={1000}>
               <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "30rem" }}>
