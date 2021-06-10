@@ -22,9 +22,9 @@ function App() {
               <img src={logo} width="70" height="70" alt="" />
             </a> </Navbar.Brand>
           <Nav className="mr-auto navbar" >
-            <Nav.Link href="react-portfolio/#">Home</Nav.Link>
-            <Nav.Link href="react-portfolio/#/projects">Projects</Nav.Link>
-            <Nav.Link href="react-portfolio/#/resume">Resume</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/projects">Projects</Nav.Link>
+            <Nav.Link href="/resume">Resume</Nav.Link>
           </Nav>
         </Navbar>
         </div>
