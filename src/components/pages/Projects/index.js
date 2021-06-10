@@ -30,7 +30,7 @@ export class BootstrapCarousel extends Component {
     }}>
           <Carousel fade>
             <Carousel.Item interval={1000}>
-              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "30rem" }}>
+              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "20rem" }}>
               <div className="cardheader">
                 <Card.Header>React Portfolio</Card.Header>
                 </div>
@@ -51,7 +51,7 @@ export class BootstrapCarousel extends Component {
             </Carousel.Item>
     
             <Carousel.Item interval={1000}>
-              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "30rem" }}>
+              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "20rem" }}>
                 <div className="cardheader">
                 <Card.Header>Local Roots App</Card.Header>
                 </div>
@@ -71,7 +71,7 @@ export class BootstrapCarousel extends Component {
             </Carousel.Item>
 
             <Carousel.Item interval={1000}>
-              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "30rem" }}>
+              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "20rem" }}>
                 <div className="cardheader">
                 <Card.Header>Scheduler</Card.Header>
                 </div>
@@ -91,7 +91,7 @@ export class BootstrapCarousel extends Component {
             </Carousel.Item>
 
             <Carousel.Item interval={1000}>
-              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "40rem" }}>
+              <Card className="text-center d-block mx-auto" border="secondary" style={{ width: "20rem" }}>
                 <div className="cardheader">
                 <Card.Header>Code Refactor</Card.Header>
                 </div>

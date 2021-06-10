@@ -1,6 +1,5 @@
 import React from "react";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
-
 import Footer from "./components/footer/Footer";
 import Projects from "./components/pages/Projects/index";
 import Home from "./components/pages/home/Home";
@@ -8,6 +7,7 @@ import Resume from "./components/pages/Resume/index";
 import Open from "./components/pages/Open/Opening";
 import { Nav, Navbar } from "react-bootstrap";
 import logo from "./img/jsjlogo.PNG";
+
 import background from "./img/minback2.jpeg";
 
 import "./App.css";
@@ -19,13 +19,14 @@ function App() {
         <div className="bar">
         <Navbar bg="light" variant="light">
           <Navbar.Brand >
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="#">
               <img src={logo} width="70" height="70" alt="" />
             </a> </Navbar.Brand>
           <Nav className="mr-auto navbar" >
-            <Nav.Link href="/react-portfolio#/home">Home</Nav.Link>
+            <Nav.Link href="/react-portfolio#/home">About</Nav.Link>
             <Nav.Link href="/react-portfolio#/projects">Projects</Nav.Link>
             <Nav.Link href="/react-portfolio#/resume">Resume</Nav.Link>
+            <Nav.Link href="https://github.com/Joydotcom">GitHub</Nav.Link>
           </Nav>
         </Navbar>
         </div>

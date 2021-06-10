@@ -15,10 +15,14 @@ function Resume() {
       display: "flex",
       justifyContent: "center",
       alignItems: "center",
-    }}>
+    }} >
   <h1 className="name">Resume</h1>
   </div>
-    <div className="pdf">
+    <div className="pdf" style={{
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+    }}>
   <Document file={pdf}>
 <Page pageNumber={1} />
   </Document>
