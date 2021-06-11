@@ -138,7 +138,7 @@ export class BootstrapCarousel extends Component {
                       their consoles and favorite games.
                     </Card.Text>
                   </div>
-                  <p></p>
+                  <p>
                   <a
                     className="link"
                     href="https://github.com/greenkimparsons/gamerz"
@@ -146,14 +146,15 @@ export class BootstrapCarousel extends Component {
                     {" "}
                     GitHub Link{" "}
                   </a>
-                  <p></p>
+                  </p>
+                  <p>
                   <a
                     className="link"
                     href="https://afternoon-garden-82475.herokuapp.com/"
                   >
                     {" "}
                     Deployed Link
-                  </a>
+                  </a></p>
                 </Card.Body>
               </Card>
             </Carousel.Item>
