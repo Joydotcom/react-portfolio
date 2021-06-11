@@ -11,13 +11,13 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 function Resume() {
   return (
     <div>
-    <div style={{
+    
+  <h1 className="name" style={{
       display: "flex",
       justifyContent: "center",
       alignItems: "center",
-    }} >
-  <h1 className="name">Resume</h1>
-  </div>
+    }} >Resume</h1>
+  
     <div className="pdf" style={{
       display: "flex",
       justifyContent: "center",

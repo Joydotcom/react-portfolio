@@ -4,12 +4,12 @@ import "./style.css";
 
 const Header = () => {
     return (
-        <div style={{
+        <div >
+        <h1 className="name" style={{
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
-          }}>
-        <h1 className="name">Joy S Jackson</h1>
+          }}>Joy S Jackson</h1>
         </div>
     )
 
