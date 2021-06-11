@@ -59,8 +59,12 @@ function Open() {
   }}
 />
 </div>
-<div className="button">
-<Button  className="btn btn-secondary btn-lg btn-block" href="#Home" role="button"> Let's Begin </Button>
+<div className="button" style={{
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+    }}>
+<Button  className="btn btn-secondary btn-lg " href="#Home" role="button"> Let's Begin </Button>
 </div>
 </div>
   )}

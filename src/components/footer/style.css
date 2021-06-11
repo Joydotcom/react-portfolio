@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
 
 .footer {
-    padding-top: 100px;
-    padding-bottom: 100px;
-    font-family: 'Bad Script', cursive;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-family: 'Bad Script';
 }

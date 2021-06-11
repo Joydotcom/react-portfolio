@@ -8,7 +8,7 @@ import "./style.css";
 function Footer() {
   return (
     <div className="footer">
-    <footer className="fixed-bottom text-left pl-5 pt-3 pb-3">
+    <footer className="text-center pl-5 pt-3 pb-3">
       <h3 style={{ color: "gray" }}>Contact</h3>
       <h4>
         <a href="mailto:msjoyjackson@gmail.com" style={{ color: "rgb(173, 110, 67)" }}>

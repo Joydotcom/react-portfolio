@@ -41,6 +41,7 @@ function Home() {
         have, and continue to, successfully develop.
         <p></p>I am certain that these skills translate well into the Tech
         Industry, and will be an asset to any position, team, and company.
+        <p></p>
         <p className="joy">
           Joy <FontAwesomeIcon icon={faHandPeace} />{" "}
         </p>
