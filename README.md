@@ -7,9 +7,13 @@ Here, you'll find my bio, most recent projects, resume, contact info, and github
 
 ## Deployed Site
 
-Click Here! [Deployed Site](https://joydotcom.github.io/react-portfolio).
+[Click Here!](https://joydotcom.github.io/react-portfolio).
 
 ## Screenshot
 
-![Directory Screenshot](./src/img/websiteshot.png).
+![Portfolio Screenshot](./src/img/websiteshot.png).
+
+
+
+
 
