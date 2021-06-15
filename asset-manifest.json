@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.4a2e21b8.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.010ebc59.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.010ebc59.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.87ee4152.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.87ee4152.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.8355da4e.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.8355da4e.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.4a2e21b8.chunk.css.map": "/react-portfolio/static/css/main.4a2e21b8.chunk.css.map",
     "static/js/2.a9a5ea12.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.a9a5ea12.chunk.js.LICENSE.txt",
-    "static/media/Resume21.ddebcdb7.pdf": "/react-portfolio/static/media/Resume21.ddebcdb7.pdf",
+    "static/media/ResumeE21.bbd3273b.pdf": "/react-portfolio/static/media/ResumeE21.bbd3273b.pdf",
     "static/media/gamerzsite.7e5788a2.png": "/react-portfolio/static/media/gamerzsite.7e5788a2.png",
     "static/media/joylogo2.650e4b29.PNG": "/react-portfolio/static/media/joylogo2.650e4b29.PNG",
     "static/media/joytallpolaroid.93b517d2.PNG": "/react-portfolio/static/media/joytallpolaroid.93b517d2.PNG",
@@ -29,6 +29,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.a9a5ea12.chunk.js",
     "static/css/main.4a2e21b8.chunk.css",
-    "static/js/main.010ebc59.chunk.js"
+    "static/js/main.87ee4152.chunk.js"
   ]
 }
