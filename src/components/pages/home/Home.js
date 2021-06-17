@@ -41,7 +41,7 @@ function Home() {
         Atlantic City Casinos and Resorts. My role included assisting the
         Director with Nightlife Entertainment Procedures and Protocol,
         overseeing services for Entertainment Guests, presenting data, and
-        conducting rehearsals. In all of my roles I must be flexible, juggle
+        conducting rehearsals. In all of my roles I must be creative, innovative, flexible, juggle
         multiple concerns at once, and effectively communicate with my team.
         Attention to detail is always a top priority. I must be able to quickly
         assess any situation and rely on critical thinking to utilize the proper
