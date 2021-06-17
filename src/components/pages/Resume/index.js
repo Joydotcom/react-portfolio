@@ -1,7 +1,7 @@
 import React from "react";
 import { Document, Page } from 'react-pdf';
 import "./style.css";
-import pdf from "./img/Resume21.pdf";
+import pdf from "./img/JacksonResume.pdf";
 
 import { pdfjs } from "react-pdf";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
