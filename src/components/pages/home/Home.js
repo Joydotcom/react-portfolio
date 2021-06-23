@@ -37,7 +37,7 @@ function Home() {
         was successful in the implementation and facilitation of student success
         programming and professional staff development.
         <br></br>I also had the pleasure of working
-        part time for as an Assistant Director in Nightlife for the
+        part time, as an Assistant Director in the Nightlife sector for the
         Atlantic City Casinos and Resorts. My role included assisting the
         Director with Nightlife Entertainment Procedures and Protocol,
         overseeing services for Entertainment Guests, presenting data, and
