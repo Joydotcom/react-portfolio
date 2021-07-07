@@ -27,28 +27,11 @@ function Home() {
           alignItems: "center",
         }}
       >
-        As a Software Engineer in Full Stack Web Development, I am eager to continue my professional experience in the Tech
-        Industry. I hold a B.S. in Kinesiology, a professional teaching
-        certification in Performance Art and Design, and a professional certification in Full
-        Stack Web Development.
-        <br></br>I have been a professional educator for 12+ years, having
-        experience as a Student Development Coordinator and Performance Art and
-        Design Teacher. Through my Educational Leadership graduate studies, I
-        was successful in the implementation and facilitation of student success
-        programming and professional staff development.
-        <br></br>I also had the pleasure of working
-        part time, as an Assistant Director in the Nightlife sector for the
-        Atlantic City Casinos and Resorts. My role included assisting the
-        Director with Nightlife Entertainment Procedures and Protocol,
-        overseeing services for Entertainment Guests, presenting data, and
-        conducting rehearsals. In all of my roles I must be creative, innovative, flexible, juggle
-        multiple concerns at once, and effectively communicate with my team.
-        Attention to detail is always a top priority. I must be able to quickly
-        assess any situation and rely on critical thinking to utilize the proper
-        strategies and skills for problem solving – professionally and
-        accurately.<br></br> I am certain that my unique professional experience and skills translate well into
-        the Tech Industry, and will be an asset to any position, team, and
-        company.
+        Passionate, Devoted, and Personable Creative with an extensive
+        successful background in Education, Design, and Performance Art.
+        Possessing Leadership, Cultural Competence, and Innovative transferable
+        skill sets. Combining my Software Engineering certificate and uniquely
+        creative professional experiences.
         <br></br>
         <br></br>
         <span className="joy">

@@ -14,46 +14,38 @@ function Open() {
     }}>
 <Typewriter
   onInit={(typewriter) => {
-    typewriter.typeString("Oh, Hello! I Didn't see you there ...")
+    
+      typewriter.typeString('Find Joy In Your Work ...')
       .callFunction(() => {
         console.log('String typed out!');
       })
-      .pauseFor(1000)
+      .pauseFor(2000)
       .deleteAll()
       .callFunction(() => {
         console.log('All strings were deleted');
       })
       .start();
-      typewriter.typeString('Would you like to...')
+      typewriter.typeString('Find Joy In Your Work ...')
       .callFunction(() => {
         console.log('String typed out!');
       })
-      .pauseFor(1000)
+      .pauseFor(2000)
       .deleteAll()
       .callFunction(() => {
         console.log('All strings were deleted');
       })
       .start();
-      typewriter.typeString('Find Joy In Your Work? ...')
+      typewriter.typeString('Find Joy In Your Work ...')
       .callFunction(() => {
         console.log('String typed out!');
       })
-      .pauseFor(1000)
+      .pauseFor(2000)
       .deleteAll()
       .callFunction(() => {
         console.log('All strings were deleted');
       })
       .start();
-      typewriter.typeString('Tap the button!')
-      .callFunction(() => {
-        console.log('String typed out!');
-      })
-      .pauseFor(2500)
-      .deleteAll()
-      .callFunction(() => {
-        console.log('All strings were deleted');
-      })
-      .start();
+      
       
       
   }}
